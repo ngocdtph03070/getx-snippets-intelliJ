@@ -40,7 +40,7 @@ publishPlugin {
 }
 
 intellij {
-    version '2019.2'
+    version '2021.1'
     plugins 'java'
     updateSinceUntilBuild = true
     patchPluginXml {
